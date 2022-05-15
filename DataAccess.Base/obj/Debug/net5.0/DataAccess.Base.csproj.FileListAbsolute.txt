@@ -1,0 +1,12 @@
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\bin\Debug\net5.0\DataAccess.Base.deps.json
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\bin\Debug\net5.0\DataAccess.Base.dll
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\bin\Debug\net5.0\ref\DataAccess.Base.dll
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\bin\Debug\net5.0\DataAccess.Base.pdb
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\obj\Debug\net5.0\DataAccess.Base.csproj.AssemblyReference.cache
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\obj\Debug\net5.0\DataAccess.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\obj\Debug\net5.0\DataAccess.Base.AssemblyInfoInputs.cache
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\obj\Debug\net5.0\DataAccess.Base.AssemblyInfo.cs
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\obj\Debug\net5.0\DataAccess.Base.csproj.CoreCompileInputs.cache
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\obj\Debug\net5.0\DataAccess.Base.dll
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\obj\Debug\net5.0\ref\DataAccess.Base.dll
+C:\Users\dabaq\source\repos\Picu\DataAccess.Base\obj\Debug\net5.0\DataAccess.Base.pdb

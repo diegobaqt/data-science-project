@@ -1,0 +1,17 @@
+C:\Users\dabaq\source\repos\Picu\Picu.Services\bin\Debug\net5.0\Picu.Services.deps.json
+C:\Users\dabaq\source\repos\Picu\Picu.Services\bin\Debug\net5.0\Picu.Services.dll
+C:\Users\dabaq\source\repos\Picu\Picu.Services\bin\Debug\net5.0\ref\Picu.Services.dll
+C:\Users\dabaq\source\repos\Picu\Picu.Services\bin\Debug\net5.0\Picu.Services.pdb
+C:\Users\dabaq\source\repos\Picu\Picu.Services\bin\Debug\net5.0\DataAccess.Base.dll
+C:\Users\dabaq\source\repos\Picu\Picu.Services\bin\Debug\net5.0\Domain.Model.dll
+C:\Users\dabaq\source\repos\Picu\Picu.Services\bin\Debug\net5.0\DataAccess.Base.pdb
+C:\Users\dabaq\source\repos\Picu\Picu.Services\bin\Debug\net5.0\Domain.Model.pdb
+C:\Users\dabaq\source\repos\Picu\Picu.Services\obj\Debug\net5.0\Picu.Services.csproj.AssemblyReference.cache
+C:\Users\dabaq\source\repos\Picu\Picu.Services\obj\Debug\net5.0\Picu.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabaq\source\repos\Picu\Picu.Services\obj\Debug\net5.0\Picu.Services.AssemblyInfoInputs.cache
+C:\Users\dabaq\source\repos\Picu\Picu.Services\obj\Debug\net5.0\Picu.Services.AssemblyInfo.cs
+C:\Users\dabaq\source\repos\Picu\Picu.Services\obj\Debug\net5.0\Picu.Services.csproj.CoreCompileInputs.cache
+C:\Users\dabaq\source\repos\Picu\Picu.Services\obj\Debug\net5.0\Picu.Services.csproj.CopyComplete
+C:\Users\dabaq\source\repos\Picu\Picu.Services\obj\Debug\net5.0\Picu.Services.dll
+C:\Users\dabaq\source\repos\Picu\Picu.Services\obj\Debug\net5.0\ref\Picu.Services.dll
+C:\Users\dabaq\source\repos\Picu\Picu.Services\obj\Debug\net5.0\Picu.Services.pdb

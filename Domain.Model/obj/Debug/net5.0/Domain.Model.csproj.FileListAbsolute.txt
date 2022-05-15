@@ -1,0 +1,14 @@
+C:\Users\dabaq\source\repos\Picu\Domain.Model\bin\Debug\net5.0\Domain.Model.deps.json
+C:\Users\dabaq\source\repos\Picu\Domain.Model\bin\Debug\net5.0\Domain.Model.dll
+C:\Users\dabaq\source\repos\Picu\Domain.Model\bin\Debug\net5.0\ref\Domain.Model.dll
+C:\Users\dabaq\source\repos\Picu\Domain.Model\bin\Debug\net5.0\Domain.Model.pdb
+C:\Users\dabaq\source\repos\Picu\Domain.Model\bin\Debug\net5.0\DataAccess.Base.dll
+C:\Users\dabaq\source\repos\Picu\Domain.Model\bin\Debug\net5.0\DataAccess.Base.pdb
+C:\Users\dabaq\source\repos\Picu\Domain.Model\obj\Debug\net5.0\Domain.Model.csproj.AssemblyReference.cache
+C:\Users\dabaq\source\repos\Picu\Domain.Model\obj\Debug\net5.0\Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabaq\source\repos\Picu\Domain.Model\obj\Debug\net5.0\Domain.Model.AssemblyInfoInputs.cache
+C:\Users\dabaq\source\repos\Picu\Domain.Model\obj\Debug\net5.0\Domain.Model.AssemblyInfo.cs
+C:\Users\dabaq\source\repos\Picu\Domain.Model\obj\Debug\net5.0\Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\dabaq\source\repos\Picu\Domain.Model\obj\Debug\net5.0\Domain.Model.dll
+C:\Users\dabaq\source\repos\Picu\Domain.Model\obj\Debug\net5.0\ref\Domain.Model.dll
+C:\Users\dabaq\source\repos\Picu\Domain.Model\obj\Debug\net5.0\Domain.Model.pdb
