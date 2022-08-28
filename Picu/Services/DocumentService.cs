@@ -30,8 +30,6 @@ namespace Picu.Services
             _mongoDbService = mongoDbService;
         }
 
-        //mongodb+srv://geek_admin:IwKfdcA1P2BrM94T@cluster0.kevu1.mongodb.net/DataScienceDb?retryWrites=true&w=majority
-
         #endregion
 
         #region Post
